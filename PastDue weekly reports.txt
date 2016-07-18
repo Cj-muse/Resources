@@ -1,0 +1,53 @@
+
+Week 1: 6/1 - 6/3 ----------------------------------------------------------------------------------------
+	My first week mainly consisted of getting set-up at my desk and in the computer systems of the company.
+I got an email account a slack account and a network wide username that I can use to gain access to 
+certain things like my personal time card file.  I was introduced around the office to pretty much 
+everyone (all developers and operations personel like finance).  I was also given a few books to read 
+and was told to read a bit while at work as part of the internship so I began reading some during this
+first week.  This is pretty much all Did the first week since it was a short week and I was just getting
+started. 
+
+
+Week 2: 6/6 - 6/10 ----------------------------------------------------------------------------------------
+	This week was interesting mainly because of the CSM course that I got to take, for free!  
+CSM stands for Certified Scrum Master and I got to learn all about the basics of being a scrum master
+and using scrum in Agile porduct development over a two day course.  Each day of the course took up the 
+full work day and was very informative. Its also a very expensive course but because I am an intern,
+they let me take it for free.  Which is awesome. After the course I took a test and passed to become
+a certified scrum master which is good for two years I believe.  I took a lot from the class and was very 
+excited to see the priciples and ideas that were taught in the class utilized by the developers at 
+the company, whom I started to work with the following week.
+
+
+Week 3: 6/13 - 6/17 ---------------------------------------------------------------------------------------- 
+	This week I began paticipating in daily standups which are part of agile development.  A standup is
+a quick, usually ten minute, meeting where each team member goes around and says what they worked on the
+day before, what they plan on working on that day, and if they have any inpediments keeping them from 
+progressing any further.  These were cool to witness because it was clear from the very start that 
+the standups were beneficial for the team.  It made everyone's progress clear to everyone else on the team,
+which allows for smooth progress on the product.  Any problems that occur during the development 
+process become visible to the team no later than 24 hours after the problem occured.  This is due directly
+to the standup.  Usually when a problem occurs the team member(s) that discover the problem may converse 
+with the rest of the team right away but if not they will and should mention it in the next standup to occur.
+I enjoyed this week and got to pair with the devlopers on a very cool project that has to do with satelites 
+and airplanes.
+
+Week 4: 6/20 - 6/24 ----------------------------------------------------------------------------------------
+	This week I paired some more with the developers on the hydra team and I got to learn about and configure 
+automated deployment jobs.  The automated jobs increase overall productivity of the development team by
+automating the actions that developers would have to repeat over and over again.  This allows the team 
+of  developers to focus more of their time on the actual development of a product rather than the processes 
+that can be extracted and made autonomous.  This week was also exciting because I was able to ustilize some
+of my Linux experiance in order to set up a QA environment for the Hydra development team (The team working 
+with the satelites).  This was really fun for me because I was able to apply and see the value of knowledge 
+that I have gained while at school.  Specifically the Linux Knowledge that I have gained over the last year.
+I also discovered that on a given team not all developers have the same skills.  Some of the developers
+on team Hydra for example have very limited Linux skills.  I think that that relization will be valuble in 
+my career.
+
+Week 5: 6/27 - 7/1 -----------------------------------------------------------------------------------------
+	This week was as exciting as the last.
+Week 6: 7/4 - 7/8 ------------------------------------------------------------------------------------------
+Week 7: 7/11 - 7/15 ----------------------------------------------------------------------------------------
+
