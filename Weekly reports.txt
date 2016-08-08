@@ -126,6 +126,8 @@ during the internship any but it is a different way of learning for me and I'm j
 to just pick up on what I can when I can and make the most of it.  I just hope that I'm learning with as much 
 efficiency as possible.
 
+
+
 Week 9: 7/25 - 7/29 ----------------------------------------------------------------------------------------
 This week James and I began to focus more on the client side of the app.  We realized that we were using 
 multiple different frameworks for similar tasks and decided that we needed to simplify our implementation.
@@ -150,3 +152,6 @@ and wired that communication in to my knockout data-bindings to allow my web pag
 changes made by different users.  It was really cool and got me very excited to continue learning all I can about software 
 development and the world of computers in general. I began to realize that my future career may also have just become my new hobby.
  
+
+
+

@@ -1,0 +1,25 @@
+
+Week 9: 7/25 - 7/29 ----------------------------------------------------------------------------------------
+This week James and I began to focus more on the client side of the app.  We realized that we were using 
+multiple different frameworks for similar tasks and decided that we needed to simplify our implementation.
+We chose to utilize knockoutJS to more of its potential and in doing so we re-factored and redesigned the 
+client side code.  For me to progress on the app I had to learn Knockout and since its a framework built
+on top of javascript, I learned javascript and Jquery in the process.  This week was very educational for me.
+Towards the end of the week James and I began creating selenium UI tests for another internal team of solutions
+IQ, team hydra.  This was cool to see because it broadened my perspective on web design. However, I only experienced  
+a small part of the selenium testing because James and I realized that since my internship was coming 
+to an end, I must finish the last couple of main features on the voting app. I spent the last couple days of this 
+week on the app and learning the basics of knockout and Javascript through trial and error.  It was a phenomenal 
+experience.
+
+Week 10: 8/1 - 8/5 ----------------------------------------------------------------------------------------
+This week was the last week of my internship.  I am going to miss interning at solutions IQ.  The people I got to 
+work with and learn from were what I believe to be some of the most well versed software developers in their respective 
+fields.  This internship was a truly great opportunity and I feel that I have learned a ton.  This last week really 
+gave me a chance to apply all that I had learned over the duration of the summer.  I refined the user interface design
+and added to the functionality of the app.  The main part of what I added during this week was real-time
+web functionality.  I used SignalR to create bi-directional communication between the client and server of my application, 
+and wired that communication in to my knockout data-bindings to allow my web pages to automatically update and react to 
+changes made by different users.  It was really cool and got me very excited to continue learning all I can about software 
+development and the world of computers in general. I began to realize that my future career may also have just become my new hobby.
+ 
